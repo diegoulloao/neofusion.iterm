@@ -18,3 +18,12 @@
     <p><b><code>onefetch</code></b></p>
     <img src="https://i.ibb.co/NLS5wSc/neofusion-onefetch.png" alt="neofusion" />
 </p>
+
+# Projects ⭐
+
+### `neofusion.nvim`
+
+Neovim theme version. [Check it out!](https://github.com/diegoulloao/neofusion.nvim)
+
+### `neofusion-wallpapers`
+Beautiful wallpapers that match your setup. [Check available resolutions](https://github.com/diegoulloao/neofusion-wallpapers?tab=readme-ov-file)
