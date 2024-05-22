@@ -3,6 +3,10 @@
 </div>
 
 <p align="center">
+    <img src="https://img.shields.io/badge/-%23!%2Fbin%2Fzsh-1f425f.svg?style=for-the-badge&logo=zsh" alt="zsh-badge" />
+</p>
+
+<p align="center">
     Neofusion theme for iTerm2 blending lava red and ice blue colors
 </p>
 
