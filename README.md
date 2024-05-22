@@ -9,9 +9,12 @@
 <p align="center">
     <img src="https://i.ibb.co/jgtjBfp/neofusion-iterm.png" alt="neofusion" />
     <hr/>
+    <p><b><code>spotify-player</code></b></p>
     <img src="https://i.ibb.co/wJ2nY9h/neofusion-spotify-tui.png" alt="neofusion" />
     <hr/>
+    <p><b><code>htop</code></b></p>
     <img src="https://i.ibb.co/hYdNwxh/neofusion-htop.png" alt="neofusion" />
     <hr />
+    <p><b><code>onefetch</code></b></p>
     <img src="https://i.ibb.co/NLS5wSc/neofusion-onefetch.png" alt="neofusion" />
 </p>
