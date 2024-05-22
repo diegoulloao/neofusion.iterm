@@ -23,6 +23,10 @@
     <img src="https://i.ibb.co/NLS5wSc/neofusion-onefetch.png" alt="neofusion" />
 </p>
 
+# Advanced 🔥
+
+Get the nice looking from the captures following the [wiki tutorial](https://github.com/diegoulloao/neofusion.iterm/wiki/Advanced-Customization)
+
 # Projects ⭐
 
 ### `neofusion.nvim`
