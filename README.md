@@ -25,7 +25,7 @@
 
 # Advanced 🔥
 
-Get the nice looking from the captures following the [wiki tutorial](https://github.com/diegoulloao/neofusion.iterm/wiki/Advanced-Customization)
+Get the nice looking from the captures by following the [wiki tutorial](https://github.com/diegoulloao/neofusion.iterm/wiki/Advanced-Customization)
 
 # Projects ⭐
 
