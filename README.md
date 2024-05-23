@@ -1,5 +1,8 @@
 <div align="center">
-    <h1>neofusion.iterm</h1>
+    <h1>
+        <img src="https://i.ibb.co/JKkW15M/logo.jpg" width="110" />
+        <br />neofusion.iterm
+    </h1>
 </div>
 
 <p align="center">
