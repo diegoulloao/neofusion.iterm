@@ -26,7 +26,7 @@
     <img src="https://i.ibb.co/NLS5wSc/neofusion-onefetch.png" alt="neofusion" />
 </p>
 
-# Getting the right diff colors
+# Getting the right diff colors ✅
 
 Add the following lines to your `~/.gitconfig` file:
 
