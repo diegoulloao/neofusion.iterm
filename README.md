@@ -29,9 +29,9 @@
 # Getting the right diff colors
 
 Add the following lines to your `~/.gitconfig` file:
+
 ```bash
 [color "diff"]
-  old = red
   new = cyan
 ```
 
@@ -46,4 +46,5 @@ Get the nice looking from the captures by following the [wiki tutorial](https://
 Neovim theme version. [Check it out!](https://github.com/diegoulloao/neofusion.nvim)
 
 ### `neofusion-wallpapers`
+
 Beautiful wallpapers that match your setup. [Check available resolutions](https://github.com/diegoulloao/neofusion-wallpapers?tab=readme-ov-file)
