@@ -26,6 +26,15 @@
     <img src="https://i.ibb.co/NLS5wSc/neofusion-onefetch.png" alt="neofusion" />
 </p>
 
+# Getting the right diff colors
+
+Add the following lines to your `~/.gitconfig` file:
+```bash
+[color "diff"]
+  old = red
+  new = cyan
+```
+
 # Advanced 🔥
 
 Get the nice looking from the captures by following the [wiki tutorial](https://github.com/diegoulloao/neofusion.iterm/wiki/Advanced-Customization)
