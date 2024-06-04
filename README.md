@@ -49,6 +49,10 @@ Neovim theme version. [Check it out!](https://github.com/diegoulloao/neofusion.n
 
 Bat theme version [Check it out!](https://github.com/diegoulloao/neofusion.bat/)
 
+### `neofusion.fzf`
+
+FZF theme version [Check it out!](https://github.com/diegoulloao/neofusion.fzf/)
+
 ### `neofusion.k9s`
 
 K9s theme version. [Check it out!](https://github.com/diegoulloao/neofusion.k9s)
