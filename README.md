@@ -45,6 +45,10 @@ Get the nice looking from the captures by following the [wiki tutorial](https://
 
 Neovim theme version. [Check it out!](https://github.com/diegoulloao/neofusion.nvim)
 
+### `neofusion.alacritty`
+
+Alacritty theme version. [Check it out!](https://github.com/diegoulloao/neofusion.alacritty)
+
 ### `neofusion.bat`
 
 Bat theme version [Check it out!](https://github.com/diegoulloao/neofusion.bat/)
