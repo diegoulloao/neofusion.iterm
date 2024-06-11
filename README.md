@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    Neofusion theme for iTerm2 blending lava red and ice blue colors
+    Neofusion theme for iTerm2 blending lava red and ice blue colors ✨
 </p>
 
 <p align="center">
@@ -52,6 +52,10 @@ Alacritty theme version. [Check it out!](https://github.com/diegoulloao/neofusio
 ### `neofusion.kitty`
 
 Kitty theme version. [Check it out!](https://github.com/diegoulloao/neofusion.kitty)
+
+### `neofusion.wezterm`
+
+WezTerm theme version. [Check it out!](https://github.com/diegoulloao/neofusion.wezterm)
 
 ### `neofusion.winterm`
 
